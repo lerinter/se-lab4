@@ -1,0 +1,7 @@
+SUCCESS  # <- GT4500
+FAIL  # <- Primary Store
+SUCCESS  # <- Secondary store
+FAIL  # <- Primary Store
+SUCCESS  # <- Secondary store
+FAIL  # <- Primary Store
+FAIL  # <- Secondary store
